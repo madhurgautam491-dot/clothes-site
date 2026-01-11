@@ -1,4 +1,5 @@
 # clothes-site
 
-branch-- main 
-./
+clothes-site/
+    index.html
+    style.css
