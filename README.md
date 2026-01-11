@@ -1,6 +1,4 @@
-Folder: / (root)
-Build Command → leave blank (static site)# clothes-site
+# clothes-site
 
-branch-- main
-
-Publish Directory → /
+branch-- main 
+./
